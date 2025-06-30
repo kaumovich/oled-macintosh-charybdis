@@ -46,6 +46,6 @@
         segment-remap;
         com-invdir;
         inversion-on;
-        prechargep = <0х78>;
+        prechargep = <0x78>;
         };
 }; 
